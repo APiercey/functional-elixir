@@ -1,0 +1,2 @@
+defmodule Fantasy do
+end
